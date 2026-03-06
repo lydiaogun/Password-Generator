@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+<div class="container">
+    <div class="parent-container">
+        <h1>Generate a <br><span class="highlight">random password</span></h1>
+        <div class="black">
+            <p>Never use an insecure password again.</p>
+        </div>
+    </div>
+
+    <div class="parent-container2">
+        <button onclick="generateStrongPassword()">Generate a strong password</button>
+        <hr>
+    </div>
+
+    <div class="parent-container3">
+        <div class="di">
+            <p id="generated-password"></p>
+        </div>
+        <div class="di">
+            <p id="generated-password2"></p>
+        </div>
+    </div>
+
+    <div class="input-container">
+        <input type="text" id="userInput" placeholder="Length of password?">
+        <br> <button onclick="handleInput()">Submit</button>
+        
+    </div>
+
+</div>
+
+<script src="hi.js"></script>
+</body>
+</html>

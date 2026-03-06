@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    background: #1F2937;
+
+}
+
+h1 {
+    color: #E5E7EB;
+    text-align:left;
+    margin-top: 50px;
+    font-family: 'Karla', sans-serif;
+     margin-bottom: 1px; 
+}
+
+.highlight {
+    color: #2ecc71;
+    font-weight: bold;
+}
+
+.parent-container {
+    position: absolute;
+    top: 115px;
+    left:52px;
+}
+
+
+
+.black p {
+    color: #D5D4D8;
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+
+.parent-container .black {
+    width: 372px;
+}
+
+.parent-container2 {
+    position: absolute;
+    top: 284px;
+    left:52px;
+    padding-top: px;
+    padding-right: 17px;
+    padding-bottom: 9px;
+}
+
+button {
+    background: #10B981;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+
+hr {
+    position:absolute;
+    border: 1px solid #2F3E53;
+    width: 446px;
+    
+}
+
+.di {
+    background: #273549;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 10px;
+    width: 211px;
+    border-radius: 5px;
+    align-items: center; /* vertically centres the text inside */
+    padding: 0 10px; 
+}
+
+.parent-container3 {
+    position: absolute;
+    top: 396px;
+    left: 52px;
+    display: flex;
+    gap: 20px; 
+}
+
+.di p {
+    color: #D5D4D8;
+    margin: 0; /* removes default paragraph margin */
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.input-container{
+     position:absolute;
+     top:500px;
+     left:52px;
+
+    
+}
