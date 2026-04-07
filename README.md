@@ -64,7 +64,4 @@ You can also run it with a local development server if you prefer.
 - Add mobile-friendly layout improvements
 - Replace inline `onclick` handlers with event listeners
 
-## Author
 
-Built as a beginner-friendly JavaScript project for practicing front-end fundamentals.
-```
