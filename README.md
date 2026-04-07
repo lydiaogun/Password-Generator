@@ -1,4 +1,4 @@
-```md
+
 # Password Generator
 
 A simple front-end password generator built with HTML, CSS, and JavaScript. The app creates two random passwords based on the length entered by the user and displays them on the page.
